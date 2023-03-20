@@ -1,0 +1,1 @@
+Writing a  program that will assign a random number to the variable n each time it is executed. The source code once completed would be able to print whether the number stored in the variable n is positive or negative
